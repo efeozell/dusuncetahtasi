@@ -6,7 +6,12 @@ Proje, frontend ve backend geliştirme süreçlerini birleştirerek **temel bir 
 
 ---
 
+## Proje Anlatimimi Okumak Istersen
+
+[Proje Dökümantasyonu](./frontend/public/dusuncetahtasiapp.pdf)
+
 ## 📸 Projeyi Incelemek Istersen
+
 https://dusuncetahtasi.onrender.com/
 
 ---
@@ -32,6 +37,7 @@ https://dusuncetahtasi.onrender.com/
 - Tailwind CSS
 
 ### 🔶 Backend
+
 - Javascript
 - Node.js
 - Express.js
